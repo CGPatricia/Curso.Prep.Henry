@@ -1,0 +1,40 @@
+h1{
+    color: rgb(206, 62, 5);
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+height: 600px;
+width: 500px;
+background-color:rgb(227, 116, 37);
+padding: 50px;
+border: double rgb(75, 75, 8) 4px;
+
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
+
+body{
+   background-image: url(https://img.freepik.com/foto-gratis/quema-fuego-acogedor-troncos-chimenea-incandescente-textura-fuego-fondo-llama-llamas-abstractas-quemando-madera_265223-11106.jpg?w=740);
+    background-size: cover;
+}
+
+div{ margin-left: auto;
+    margin-right: auto;
+
+}
+
+.divClass{
+    text-align: center;
+}
+
+  
+
+
